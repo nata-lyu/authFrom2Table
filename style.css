@@ -1,0 +1,14 @@
+body {
+    text-align: center; 
+}
+
+form {
+    margin-top: 40px;
+}
+
+fieldset {
+    width: 40%;
+    margin-top: 40px;
+    margin-left: 30%;
+    align: center;
+}
